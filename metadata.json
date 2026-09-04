@@ -1,0 +1,7 @@
+{
+  "name": "Local Audio Player",
+  "description": "A clean mini music website for playing and managing local audio tracks with playlist controls and real-time visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
