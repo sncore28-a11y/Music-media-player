@@ -139,7 +139,13 @@ export default function App() {
         dateAdded: Date.now() + i,
       });
     }
-
+         >meta<for (let i = 0; i < files.length; i++) {
+  // ...
+  const measuredDuration = await getAudioDuration(url);
+  // ...
+}
+     Set
+  
     setTracks((prev) => {
       const updated = [...prev, ...newTracks];
       // If no track was previously selected, select the first newly added one
